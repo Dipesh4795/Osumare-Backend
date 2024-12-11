@@ -1,0 +1,14 @@
+[
+  {
+    "id": "9766fefa-5feb-4ade-b91f-a550ab36432e",
+    "email": "dintel31702@gmail.com",
+    "password": "$2b$10$7mQC5/luukquYZNQbdypYeGl0PEG085nXNXy1cY4T.6pBwWLyeLJG",
+    "accounttype": "Student"
+  },
+  {
+    "id": "0f754c07-20e6-489a-b781-ceac24a33a67",
+    "email": "dgupta31702@gmail.com",
+    "password": "$2b$10$aVC.An6gWdQf2AN14mjfcuonhPjUktSf6cR5U6lKOdSspHNEemib.",
+    "accounttype": "Teacher"
+  }
+]
